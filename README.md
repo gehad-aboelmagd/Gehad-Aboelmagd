@@ -5,6 +5,7 @@
 - 📫 How to reach me : via [LinkedIn](https://linkedin.com/in/gehad-aboelmagd) 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: C is wonderful language.
+- 🔥 Follow me on [HackerRank](https://www.hackerrank.com/profile/Gehad_Aboelmagd) and [Codeforces](https://codeforces.com/profile/gehad_aboelmagd)
 
 <!---
 Gehad-Aboelmagd/Gehad-Aboelmagd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
